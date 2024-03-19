@@ -1,7 +1,7 @@
 ### PROYECTO DE PRUEBAS API REST CON EVENTOS
 
 ****
-**Ejemplos de persistencia y consulta de datos con:**
+**Ejemplos de persistencia, consulta y mapeo de datos con:**
 * Jpa
 * Mapstruct
 
