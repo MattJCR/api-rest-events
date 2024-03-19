@@ -7,3 +7,6 @@
 * Reflection
 * ExceptionHandler
 * Validation
+* Configuration
+* RestTemplate
+* WebClient
